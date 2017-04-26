@@ -1,1 +1,1 @@
-# phpcoupecms
+# PHP Coupé CMS
